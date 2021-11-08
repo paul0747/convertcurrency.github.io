@@ -1,0 +1,16 @@
+body {
+  background-color: #675aff;
+  height: 100vh;
+}
+
+#section {
+  height: 100vh;
+}
+
+select#from option[value="One"] {
+  background: url(./Romania.svg);
+}
+.flag {
+  width: 60px;
+  height: 60px;
+}
